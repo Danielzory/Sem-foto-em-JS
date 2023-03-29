@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: gray;
+}
+
+main{
+    margin-top: 50px;
+    background-color: rgb(233, 230, 230);
+    width: 700px;
+    height: 800px;
+    border: 2px solid black ;
+}
+#traficLigth{
+    background-color: rgba(0, 0, 0, 0.763);
+    border: 2px solid black;
+    border-radius: 45px;
+    box-shadow: 3px 1px 1px 5px rgba(0, 0, 0, 0.995);
+    width: 350px;
+    height:650px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.ligth{
+    margin-top: 20px;
+    width: 180px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 89px;
+}
+
+#red{
+    background: rgba(86, 33, 33, 0.909);
+}
+#red:hover{
+    background: red;
+}
+#yellow{
+    background: rgba(83, 86, 33, 0.909);
+}
+#yellow:hover{
+    background: yellow;
+}
+#green{
+    background: rgba(44, 86, 33, 0.909);
+}
+#green:hover{
+    background: rgb(13, 179, 13);
+}
