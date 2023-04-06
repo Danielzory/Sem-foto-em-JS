@@ -1,0 +1,1 @@
+# Sem-foto-em-JS
